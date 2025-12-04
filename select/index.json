@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Be alone",
+  "base_artist": "ZZEN",
+  "createdAt": "2025-12-04T13:00:23.504166Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Frankie Wants To Be Alone",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/01_Frankie_Wants_To_Be_Alone_My_Little_Airport.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If I Have To Be Alone [Live at the Palace of Fine Arts Theatre, San Francisco, CA, July 1990]",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/02_If_I_Have_To_Be_Alone_[Live_at_the_Palace_of_Fine_Arts_Theatre,_San_Francisco,_C_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If I Have To Be Alone",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/03_If_I_Have_To_Be_Alone_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Wish We Could Be Alone",
+      "artist": "Laura Branigan",
+      "has_synced": false,
+      "path": "select/04_I_Wish_We_Could_Be_Alone_Laura_Branigan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Wish We Could Be Alone (LP\u0000Single Version)",
+      "artist": "Laura Branigan",
+      "has_synced": false,
+      "path": "select/05_I_Wish_We_Could_Be_Alone_(LP\u0000Single_Version)_Laura_Branigan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Want To Be Alone (Instrumental)",
+      "artist": "Chromatics",
+      "has_synced": true,
+      "path": "select/06_I_Want_To_Be_Alone_(Instrumental)_Chromatics.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Want to Be Alone",
+      "artist": "Chromatics",
+      "has_synced": true,
+      "path": "select/07_I_Want_to_Be_Alone_Chromatics.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Someone I Can Be Alone With",
+      "artist": "Oh Land",
+      "has_synced": false,
+      "path": "select/08_Someone_I_Can_Be_Alone_With_Oh_Land.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "To Be Alone with You",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/09_To_Be_Alone_with_You_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You'll Never Be Alone",
+      "artist": "The Books",
+      "has_synced": true,
+      "path": "select/10_You'll_Never_Be_Alone_The_Books.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "There's No Need For Us To Be Alone",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/11_There's_No_Need_For_Us_To_Be_Alone_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Don't Have To Be Alone",
+      "artist": "DJDS",
+      "has_synced": false,
+      "path": "select/12_You_Don't_Have_To_Be_Alone_DJDS.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rather Be Alone",
+      "artist": "INOJ",
+      "has_synced": true,
+      "path": "select/13_Rather_Be_Alone_INOJ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "There's No Need for Us to Be Alone (Future 3 Remix)",
+      "artist": "Piano Magic",
+      "has_synced": true,
+      "path": "select/14_There's_No_Need_for_Us_to_Be_Alone_(Future_3_Remix)_Piano_Magic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Be Alone",
+      "artist": "Justice vs. Simian",
+      "has_synced": true,
+      "path": "select/15_Never_Be_Alone_Justice_vs._Simian.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be alone",
+      "artist": "ZZEN",
+      "has_synced": false,
+      "path": "select/pl_01_Be_alone_ZZEN.txt"
+    }
+  ]
+}
